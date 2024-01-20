@@ -4,7 +4,7 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://bruna15limaa.github.io/Crie-seu-evento/">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://www.figma.com/file/LBEe6h7sGp3F8c8lMSc3X8/Explorer-Stage-03-Projeto-01-(Copy)?node-id=1%3A57&mode=dev">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
@@ -14,7 +14,9 @@
 </p>
 
 
-
+## 🚀 Projeto
+<p align="center">
+<a href="https://bruna15limaa.github.io/Crie-seu-evento/">Link do projeto</a></p>
 
 ## 🚀 Tecnologias
 
