@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://bruna15limaa.github.io/Crie-seu-evento/">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -12,6 +12,9 @@
 <p align="center">
   <img alt="Capa" src="./assets/capa.png" width="100%">
 </p>
+
+
+
 
 ## 🚀 Tecnologias
 
